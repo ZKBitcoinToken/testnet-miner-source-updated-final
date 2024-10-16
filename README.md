@@ -1,2 +1,2 @@
-# testnet-miner-source-updated-final
- Best source code for the miner
+# testnet-paymaster-miner-source
+ All Miner source code for testnet
